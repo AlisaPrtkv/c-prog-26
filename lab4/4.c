@@ -1,7 +1,5 @@
 #include <stdio.h>
-#include "triangle.h"
-#include "perimetr.h"
-#include "area.h"
+#include "a.h"
 
 int main() {
     double a,b,c;
